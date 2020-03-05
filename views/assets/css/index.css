@@ -1,0 +1,27 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 19px 24px;
+    -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    font-size: 18px;
+}
+
+.header img {
+    width: 100px;
+}
+
+.content {
+    padding-top: 50px;
+    text-align: center;
+    color:rgba(0, 0, 0, 0.65);
+}
