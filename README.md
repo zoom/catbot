@@ -4,7 +4,7 @@ This is a sample Chatbot app using the [Zoom Chatbot CLI NPM Package](https://ww
 
 ![Zoom Chatbot Message Action](https://s3.amazonaws.com/user-content.stoplight.io/19808/1578436796074)
 
-[To create this Chatbot from scratch, click here to follow the step by step tutorial on our docs.](https://marketplace.zoom.us/docs/guides/chatbots/using-the-chatbot-cli)
+[To create this Chatbot from scratch with the Chatbot CLI, click here to follow the step by step tutorial on our docs.](https://marketplace.zoom.us/docs/guides/chatbots/using-the-chatbot-cli)
 
 To run the completed Chatbot code locally, continue reading below.
 
