@@ -1,13 +1,13 @@
 {
 	"name": "catbot",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Send cat photos in Zoom Chat",
 	"main": "index.js",
 	"scripts": {
 		"start": "cross-env NODE_ENV=development nodemon ./server.js --ignore ./static/**",
 		"test": "jest --config  ./jest.config.js"
 	},
-	"author": "",
+	"author": "Tommy Gaessler",
 	"license": "ISC",
 	"devDependencies": {
 		"babel-plugin-rewire": "^1.2.0",
