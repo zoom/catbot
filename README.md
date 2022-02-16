@@ -4,7 +4,7 @@ Use of this sample app is subject to our [Terms of Use](https://zoom.us/docs/en-
 
 This is a sample Chatbot app using the [Zoom Chatbot CLI NPM Package](https://www.npmjs.com/package/@zoomus/chatbot-cli).
 
-![Zoom Chatbot Message Action](https://s3.amazonaws.com/user-content.stoplight.io/19808/1578436796074)
+![Zoom Chatbot Message Action](https://camo.githubusercontent.com/2ceee337f68b591dc41118741df967a5ab33f07968505b01e0694ce400ea3f86/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f757365722d636f6e74656e742e73746f706c696768742e696f2f31393830382f31353738343336373936303734)
 
 [To create this Chatbot from scratch with the Chatbot CLI, click here to follow the step by step tutorial on our docs.](https://marketplace.zoom.us/docs/guides/chatbots/using-the-chatbot-cli)
 
